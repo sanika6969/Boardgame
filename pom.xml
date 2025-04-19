@@ -130,14 +130,14 @@
         </plugins>
     </build>
 
-    <distributionManagement>
+  <distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url>http://13.201.15.191:8081/repository/maven-releases/</url>
+            <url>http://10.25.157.153:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>http://13.201.15.191:8081/repository/maven-snapshots/</url>
+            <url>http://10.25.157.153:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
